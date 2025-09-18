@@ -1,5 +1,5 @@
 <div align="center">
-3rd year BS/MS Computer Science and BA Mathematics Student @Vanderbilt University
+4th year BS/MS Computer Science and BA Mathematics Student @Vanderbilt University
 
 Interested in Software Engineering, Machine Learning, and Optimization.
 
